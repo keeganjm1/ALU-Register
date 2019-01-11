@@ -1,0 +1,16 @@
+Testing files...
+	PASSED test: ALU add (with overflow) test, with output in python
+	PASSED test: ALU arithmetic right shift test
+	PASSED test: AND test
+	PASSED test: SRL test
+	PASSED test: ADDU test
+	PASSED test: SUB test
+	PASSED test: ALU OR test
+	PASSED test: ALU SLTSLTU test
+	PASSED test: ALU SUBU test
+	PASSED test: ALU XOR test
+	PASSED test: RegFile read/write test
+	PASSED test: RegFile $zero test
+	PASSED test: RegFile debug outputs test
+	PASSED test: RegFile self test
+Passed 14/14 tests
